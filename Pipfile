@@ -1,0 +1,13 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pytest = "~=6.2.4"
+faker = "*"
+
+[requires]
+python_version = "3.8"
