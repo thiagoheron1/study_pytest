@@ -1,5 +1,15 @@
 # Study of Library PyTest
 
+- **Este estudo segue o vídeo do Canal do** [Eduardo Mendes - Pytest: Uma introdução - Live de Python #167
+](https://www.youtube.com/watch?v=MjQCvJmc31A)
+
+
+- Pode visualizar as minhas anotaçãos, em: [Minhas Anotações (Wiki)](https://github.com/thiagoheron1/study_pytest/wiki/1---Estudos-do-PyTest)
+
+---
+
+# Requirements:
+
 ---
 
 - Python Version: 3.8
